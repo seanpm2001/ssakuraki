@@ -87,8 +87,8 @@
       <br>jQuery
     </td>
     <td align="center" width="96">
-        <img src="./assets/anchor.jpg" width="48" height="48" alt="anchor" />
-      <br>jQuery
+        <img src="./assets/ton.jpg" width="48" height="48" alt="ton" />
+      <br>ton
     </td>
   </tr>
  <tr>
