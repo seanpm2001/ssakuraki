@@ -86,6 +86,10 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
+    <td align="center" width="96">
+        <img src="./assets/anchor.jpg" width="48" height="48" alt="anchor" />
+      <br>jQuery
+    </td>
   </tr>
  <tr>
       <td align="center" width="96">
