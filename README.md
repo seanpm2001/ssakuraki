@@ -123,12 +123,12 @@
       <br>tact
     </td>          
     <td align="center" width="96">
-        <img src="./assets/anchor.jpg" width="48" height="48" alt="anchor" />
-      <br>anchor
+        <img src="./assets/bot.svg" width="48" height="48" alt="bot" />
+      <br>bot
     </td>     
     <td align="center" width="96">
-        <img src="./assets/ubunt.jpg" width="48" height="48" alt="ubunt" />
-      <br>ubunt
+        <img src="./assets/ubuntu.svg" width="48" height="48" alt="ubuntu" />
+      <br>ubuntu
     </td>
  </tr>
 </table>
@@ -137,75 +137,13 @@
 
 </div>
 
-
-<p align="center">
-
-<!--
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
--->
-
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
-</p>
-
-
 <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
 
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
 <!-- activity graph heroku-app end -->
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-# Reach out to me #
-
-
-
-To contact me.
-
-
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
-
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#AuWaiLun-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
-
-    </td>
-    <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
-    </td>
-  </tr>
-</table>
-
-
-# Welcome!
-  
-
-<a href="http://au-portfolio.great-site.net" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+# Welcome!  
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
@@ -216,45 +154,31 @@ To contact me.
 
 ✨ I am a team player and enjoy collaborating with others to achieve a common goal.
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
-✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
+✨ Preferred Web2 frameworks ✔Laravel, ✔Shopify, ✔Wordpress, ✔React.js, ✔Next.js, ✔Tailwind CSS, ✔MUI
        
-✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
+✨ Preferred Web3 frameworks   ✔Ordinal, ✔SVM, ✔TVM
+
+✨ Preferred Bot   ✔Raydium volume bot, ✔Sniper bot, ✔Arbitrage bot, ✔Metereo bot, ✔TG bot, ✔Discord bot
           
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
-         
-✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
-         
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
-         
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
-         
-✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
-         
-✨ Payment gateway integration  ✔Stripe, ✔PayPal
-        
 
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
-
-<br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
+- 🔭 I’m currently working on Developing Trading bots and Ton DEX 
   
 
-- 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
+- 🌱 I’m currently building Ton DEX using Next.js, Typescript, Tailwind CSS, Ton Web3 and Tact.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to all of BOTs, TON Blockchain and related technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
@@ -335,39 +259,19 @@ To contact me.
 
 <br/>  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
 <br/>  
 
 # Do you want to see my past work?
 ## Trademarktoday Business Website
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
-## InvestFarmLand Business Website
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
-## Google Map API Delivery Site
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
+<a href="" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
+<a href="" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
 ## Social Media Posting Website like Twitter
-<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828317-621bc937-a2a7-461c-aa42-e59d0a60839f.png)</a>
-<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828265-89363f4b-19b1-484d-b597-961bcc14efdf.png)</a>
-<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
-## Freelancer Account Creating Bot
-<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
-## Theme & Dashboard
-<a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
+<a href="" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828317-621bc937-a2a7-461c-aa42-e59d0a60839f.png)</a>
+<a href="" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828265-89363f4b-19b1-484d-b597-961bcc14efdf.png)</a>
+<a href="" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
+## Freelam/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
+## Pump.fun
+<a href="https://pump.fun/board" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
