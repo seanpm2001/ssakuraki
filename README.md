@@ -87,9 +87,10 @@
       <br>jQuery
     </td>
     <td align="center" width="96">
-        <img src="./assets/ton.jpg" width="48" height="48" alt="ton" />
-      <br>ton
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
     </td>
+    
   </tr>
  <tr>
       <td align="center" width="96">
@@ -117,11 +118,18 @@
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
+    <td align="center" width="96">
+        <img src="./assets/ton.jpg" width="48" height="48" alt="ton" />
+      <br>tact
+    </td>          
+    <td align="center" width="96">
+        <img src="./assets/anchor.jpg" width="48" height="48" alt="anchor" />
+      <br>anchor
+    </td>     
+    <td align="center" width="96">
+        <img src="./assets/ubunt.jpg" width="48" height="48" alt="ubunt" />
+      <br>ubunt
     </td>
-         
  </tr>
 </table>
 <br><br>
